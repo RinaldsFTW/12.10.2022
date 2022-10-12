@@ -1,0 +1,5 @@
+contacts = [ {'name': 'Anna', 'age': 17}, { 'name': 'Oskars', 'age': 22}, {'name': 'Jennifer', 'age': 18}]
+
+for contact in contacts:
+    print(contact['name'])
+    print(contact['age'])
